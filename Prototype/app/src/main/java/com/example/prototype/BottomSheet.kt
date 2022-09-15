@@ -1,6 +1,5 @@
 package com.example.prototype
 
-import android.content.Intent
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -65,14 +64,8 @@ class BottomSheet: Fragment(R.layout.bottom_sheet_dialog_layout) {
             }
         })
 
-//        btnAcc.setOnClickListener {val intent = Intent(this.context,MapsActivity::class.java) }
-        //if (btnAcc != null) {
-          //  btnAcc.setOnClickListener {
-            //    val intent = Intent(this.context,MapsActivity::class.java)
-              //  startActivity(intent)
-         //   }
-       // }
-
 
     }
 }
+
+

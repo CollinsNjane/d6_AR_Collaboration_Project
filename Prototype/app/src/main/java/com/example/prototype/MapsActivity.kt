@@ -94,6 +94,7 @@ class MapsActivity : AppCompatActivity(),OnMapReadyCallback, LocationListener {
         setCorrectZoom()
         controlNextPrevButtons(route)
         route.initRouteToD6()//navigate to d6
+        var database = Database(findViewById(R.id.stMarksImage1))
     }
 
     @SuppressLint("MissingPermission")
