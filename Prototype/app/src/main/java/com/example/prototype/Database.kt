@@ -2,8 +2,15 @@ package com.example.prototype
 
 import android.graphics.BitmapFactory
 import android.util.Log
+import android.widget.Button
 import android.widget.ImageView
+import androidx.annotation.NonNull
+import com.google.firebase.database.DataSnapshot
+import com.google.firebase.database.DatabaseError
+import com.google.firebase.database.FirebaseDatabase
+import com.google.firebase.database.ValueEventListener
 import com.google.firebase.storage.FirebaseStorage
+import com.squareup.picasso.Picasso
 import java.io.File
 
 
@@ -35,7 +42,7 @@ class Database(var imageView: ImageView) {
         }
 
 
-        //dowload straight to imageView
+        //download straight to imageView
         // Reference to an image file in Cloud Storage
 //        val storageReference = Firebase.storage.reference
         // ImageView in your Activity
@@ -51,18 +58,7 @@ class Database(var imageView: ImageView) {
 
 
     private fun downloadFile() {
-        val storage = FirebaseStorage.getInstance()
-        val storageRef = storage.getReferenceFromUrl("gs://d6-ar-database.appspot.com")//the root of our file storage
-        var localRef = storageRef.child("cowboy-bebop-1.jpg")//the path to the image in storage
-        val localFile = File.createTempFile("cowboy-bebop-1", "jpg")//the name of the local file we are creating
 
-        localRef.getFile(localFile).addOnSuccessListener {
-            Log.d("firebase ", ";local file created $localFile")
-            val myBitmap = BitmapFactory.decodeFile(localFile.getAbsolutePath())//creates bitmap of local file
-            imageView.setImageBitmap(myBitmap)//display bitmap in image view
-        }.addOnFailureListener { exception ->
-            Log.e("firebase ", ";local tem file not created  created $exception")
-        }
     }
 
 
