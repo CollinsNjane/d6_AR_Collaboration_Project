@@ -85,15 +85,33 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textSize="18sp"
-                android:text="This will hold the introfuction to this site.
+                android:text="This will hold the introduction to this site.
                    A few minor notes before the main media"
                 android:textAlignment="center"/>
 
             <ImageView
                 android:id="@+id/stMarksImage1"
                 android:layout_width="match_parent"
-                android:layout_height="573dp"
+                android:layout_height="200dp"
                 android:background="@color/black" />
+
+            <ImageView
+                android:id="@+id/stMarksImage2"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@color/teal_200" />
+
+            <ImageView
+                android:id="@+id/stMarksImage3"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@color/black" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@color/teal_200"/>
+
+
 
 
         </LinearLayout>
