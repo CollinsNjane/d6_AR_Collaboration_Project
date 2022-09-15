@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/landing_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4CAF50">
+
+    <Button
+        android:id="@+id/btn_accept"
+        android:layout_width="154dp"
+        android:layout_height="43dp"
+        android:layout_marginEnd="136dp"
+        android:background="#4CAF50"
+        android:text="@string/accept"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageLanding"
+        app:layout_constraintVertical_bias="0.738" />
+
+    <ImageView
+        android:id="@+id/imageLanding"
+        android:layout_width="414dp"
+        android:layout_height="352dp"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginBottom="49dp"
+        app:layout_constraintBottom_toTopOf="@+id/textLanding"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/textLanding"
+        android:layout_width="319dp"
+        android:layout_height="102dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginEnd="48dp"
+        android:layout_marginBottom="212dp"
+        android:text="Welcome to the District Six Application. Before we proceed, please accept that we shall be using some of your information such as Location services and Camera to make sure the app runs smoothly."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageLanding" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="CompSci_outlines" schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>CompSci_outlines</name>
+	<snippet></snippet>
+	<description>CompSci_outlines</description>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffc500ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>CompSci_outlines</name>
+		<snippet></snippet>
+		<description>CompSci_outlines</description>
+		<Placemark id="ID_00000">
+			<name>Public Wash House</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Public Wash House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Public Wash House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Address</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>LandUse</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Hyperlink</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>BuildCode</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ErfNumber</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>POI</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>StreetCode</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>StreetNum</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateStart</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>DateEnd</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Notes</td>
+
+<td>Kgoro</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>129,562252</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.43006324917101,-33.93000687447667,0 18.42998398211438,-33.93011668009179,0 18.4299954464176,-33.93012099103591,0 18.42994456669592,-33.93018675256391,0 18.42995538188152,-33.93019265721234,0 18.42991672899188,-33.93024410500269,0 18.43008406488581,-33.9303326982675,0 18.43020398525377,-33.93015868035447,0 18.43023836402878,-33.93017374199307,0 18.43026609516719,-33.93013235602422,0 18.43023235489133,-33.93011729734159,0 18.4302484728661,-33.93009395361099,0 18.43006324917101,-33.93000687447667,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>STAR CINEMA</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>STAR CINEMA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>STAR CINEMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Address</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>LandUse</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Hyperlink</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>BuildCode</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ErfNumber</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>POI</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>StreetCode</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>StreetNum</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateStart</td>
+
+<td>1899/12/30</td>
+
+</tr>
+
+<tr>
+
+<td>DateEnd</td>
+
+<td>1899/12/30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Notes</td>
+
+<td>480Compilation</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>175,725027</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.43157931376473,-33.93066489042183,0 18.43135966567814,-33.93108564855769,0 18.43159044411978,-33.93116559096435,0 18.43179559856588,-33.9307502431001,0 18.43157931376473,-33.93066489042183,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>ST MARKS CHURCH</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ST MARKS CHURCH</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>ST MARKS CHURCH</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Address</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>LandUse</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Hyperlink</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>BuildCode</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ErfNumber</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>POI</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>StreetCode</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>StreetNum</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateStart</td>
+
+<td>1899/12/30</td>
+
+</tr>
+
+<tr>
+
+<td>DateEnd</td>
+
+<td>1899/12/30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Notes</td>
+
+<td>Stan's walk</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>122,922403</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.43123296894538,-33.93082625056761,0 18.43103291449556,-33.93112591600666,0 18.43115958032984,-33.93118115388134,0 18.43135420869982,-33.93087577019712,0 18.43123296894538,-33.93082625056761,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>SEVEN STEPS</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>SEVEN STEPS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>SEVEN STEPS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Address</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>LandUse</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Hyperlink</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>BuildCode</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ErfNumber</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>POI</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>StreetCode</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>StreetNum</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DateStart</td>
+
+<td>1899/12/30</td>
+
+</tr>
+
+<tr>
+
+<td>DateEnd</td>
+
+<td>1899/12/30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Notes</td>
+
+<td>HanoverExhibtion</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>14,913867</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body><script type="text/javascript">
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			</script></html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.43048024822801,-33.93021662596542,0 18.43044272218485,-33.93019790709243,0 18.43043294447187,-33.93021369301098,0 18.43047197827199,-33.93023428077204,0 18.43048024822801,-33.93021662596542,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
